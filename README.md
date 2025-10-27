@@ -3,7 +3,7 @@
 
 *We are building what is building us.*
 
-**Statistical Foundation of the first Predictive Blockchain Intelligence**
+**Statistical Foundation for the first Predictive Blockchain Intelligence**
 
 Our quantitative library provides the mathematical backbone for transforming raw blockchain data into actionable intelligence signals through rigorous statistical analysis and probabilistic modeling.
 
